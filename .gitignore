@@ -1,0 +1,15 @@
+__pycache__/
+
+# Distribution / packaging
+env/
+build/
+dist/
+*.egg-info/
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
